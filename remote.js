@@ -1,0 +1,1 @@
+globalThis.remote = true;
